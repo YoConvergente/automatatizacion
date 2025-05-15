@@ -12,9 +12,10 @@ def crear_usuario(nombre, correo, rol):
         "id_usuario": id_usuario,
         "nombre": nombre,
         "correo": correo,
-        "rol": rol
+        "rol": rol 
     }
     usuarios.append(usuario)
+
     return usuario
 
 def listar_usuarios():

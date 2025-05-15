@@ -16,7 +16,7 @@ def crear_usuario(nombre, correo, rol):
     }
     usuarios.append(usuario)
 
-    return usuario
+    return usuario 
 
 def listar_usuarios():
     return usuarios

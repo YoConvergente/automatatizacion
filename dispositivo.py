@@ -11,9 +11,9 @@ def crear_dispositivo(nombre, tipo, estado, ubicacion):
     dispositivo = {
         "id_dispositivo": id_dispositivo,
         "nombre": nombre,
-        "tipo": tipo,
+        "tipo": tipo,  
         "estado": estado,
-        "ubicacion": ubicacion
+        "ubicacion": ubicacion 
     }
     dispositivos.append(dispositivo)
     return dispositivo

@@ -46,4 +46,9 @@ Representa las reglas de automatización definidas por los usuarios.
 * Adición de más tipos de condiciones y acciones para las automatizaciones.
 * Registro de eventos y actividades del sistema.
 
-¡Espero que este README te sea de utilidad! ¿Hay algo más en lo que pueda ayudarte?
+Integrantes:
+Facuendo
+Carlos
+Lautaro
+Natalia
+Miguel

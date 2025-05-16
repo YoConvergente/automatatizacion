@@ -47,7 +47,7 @@ Representa las reglas de automatización definidas por los usuarios.
 * Registro de eventos y actividades del sistema.
 
 # Integrantes:
-* Facuendo
+* Facundo
 * Carlos
 * Lautaro
 * Natalia

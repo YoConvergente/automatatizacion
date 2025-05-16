@@ -46,9 +46,9 @@ Representa las reglas de automatización definidas por los usuarios.
 * Adición de más tipos de condiciones y acciones para las automatizaciones.
 * Registro de eventos y actividades del sistema.
 
-Integrantes:
-Facuendo
-Carlos
-Lautaro
-Natalia
-Miguel
+# Integrantes:
+* Facuendo
+* Carlos
+* Lautaro
+* Natalia
+* Miguel
